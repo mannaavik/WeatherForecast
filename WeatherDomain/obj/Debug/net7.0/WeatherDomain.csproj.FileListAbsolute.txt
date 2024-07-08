@@ -1,0 +1,11 @@
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/bin/Debug/net7.0/WeatherDomain.deps.json
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/bin/Debug/net7.0/WeatherDomain.dll
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/bin/Debug/net7.0/WeatherDomain.pdb
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/WeatherDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/WeatherDomain.AssemblyInfoInputs.cache
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/WeatherDomain.AssemblyInfo.cs
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/WeatherDomain.csproj.CoreCompileInputs.cache
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/WeatherDomain.dll
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/refint/WeatherDomain.dll
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/WeatherDomain.pdb
+/Users/avikmanna/Projects/WeatherAPP/WeatherDomain/obj/Debug/net7.0/ref/WeatherDomain.dll

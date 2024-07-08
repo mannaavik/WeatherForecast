@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WeatherApplication/1.0.0": {
+        "dependencies": {
+          "WeatherDomain": "1.0.0"
+        },
+        "runtime": {
+          "WeatherApplication.dll": {}
+        }
+      },
+      "WeatherDomain/1.0.0": {
+        "runtime": {
+          "WeatherDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
